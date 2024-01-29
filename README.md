@@ -76,9 +76,37 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 ## Installation
 
-To install and run the app, follow these steps:
+To use this project, follow these steps:
 
-1. Clone the repository:
+1. **Clone the Repository:**
+git clone https://github.com/Richa521/News.git
 
-   ```bash
+
+2. **Open in Android Studio:**
+- Open Android Studio.
+- Choose "Open an existing Android Studio project" and select the cloned project.
+
+3. **Build and Run:**
+- Build and run the app on an Android emulator or physical device.
+
+## Download Instructions
+
+As the app is not available on the Google Play Store, you can download and install the APK using the following steps:
+
+1. **Open the APK Link:**
+- Click on the [APK link](https://drive.google.com/file/d/1IoD8gE0sy2eo2kEWhGxFEgAVAbY-7goH/view?usp=share_link) provided in Drive.
+
+2. **Download APK:**
+- Download the APK file.
+
+3. **Install APK:**
+- Open the downloaded APK file to start the installation.
+- Follow the on-screen instructions to complete the installation.
+
+4. **Explore the App:**
+- Once installed, open the app to start exploring the latest news headlines.
+
+
+
+
    
