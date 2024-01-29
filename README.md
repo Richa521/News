@@ -1,6 +1,6 @@
 # News App
 
-Welcome to the News Aggregator app! This Android application provides a convenient way to stay updated with the latest news headlines. The app fetches the top headlines from various countries, allows users to swipe to delete or pin articles, and introduces a dynamic update feature to display new headlines regularly.
+Welcome to my News app! This Android application provides a convenient way to stay updated with the latest news headlines. The app fetches the top headlines from various countries, allows users to swipe to delete or pin articles, and introduces a dynamic update feature to display new headlines regularly.
 
 ## Essential Features
 
@@ -93,18 +93,30 @@ git clone https://github.com/Richa521/News.git
 
 As the app is not available on the Google Play Store, you can download and install the APK using the following steps:
 
-1. **Open the APK Link:**
-- Click on the [APK link](https://drive.google.com/file/d/1IoD8gE0sy2eo2kEWhGxFEgAVAbY-7goH/view?usp=share_link) provided in Drive.
+### 1. Download the APK:
 
-2. **Download APK:**
-- Download the APK file.
+- Click on the [APK link](https://drive.google.com/file/d/1IoD8gE0sy2eo2kEWhGxFEgAVAbY-7goH/view?usp=share_link) to access the APK file on Google Drive.
+- Download the APK file to your device, whether it's your phone or your computer.
 
-3. **Install APK:**
-- Open the downloaded APK file to start the installation.
+### 2. Install on Android Studio:
+
+- Open Android Studio.
+- In the top menu, click on "File" > "Open" and select the downloaded APK file.
+- Android Studio will decompile and open the APK. You can inspect the contents, but note that running a release APK may not be straightforward.
+
+### 3. Install on Android Device:
+
+- On your Android device, go to Settings.
+- Navigate to "Security" or "Biometrics and security" (depending on your device).
+- Enable "Install unknown apps" or a similar option.
+- Open the file manager on your phone and locate the downloaded APK file.
+- Tap on the APK file to start the installation.
 - Follow the on-screen instructions to complete the installation.
 
-4. **Explore the App:**
-- Once installed, open the app to start exploring the latest news headlines.
+### 4. Run the App:
+
+- If installed through Android Studio, you can explore the app's contents.
+- If installed on your Android device, open the app to start exploring the latest news headlines.
 
 
 
